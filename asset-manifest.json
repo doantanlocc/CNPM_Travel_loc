@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CNPM_Travel_loc/static/css/main.737ec703.css",
+    "main.js": "/CNPM_Travel_loc/static/js/main.1044edd2.js",
+    "static/js/453.3b4e378a.chunk.js": "/CNPM_Travel_loc/static/js/453.3b4e378a.chunk.js",
+    "index.html": "/CNPM_Travel_loc/index.html",
+    "main.737ec703.css.map": "/CNPM_Travel_loc/static/css/main.737ec703.css.map",
+    "main.1044edd2.js.map": "/CNPM_Travel_loc/static/js/main.1044edd2.js.map",
+    "453.3b4e378a.chunk.js.map": "/CNPM_Travel_loc/static/js/453.3b4e378a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.737ec703.css",
+    "static/js/main.1044edd2.js"
+  ]
+}
