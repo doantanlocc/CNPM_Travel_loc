@@ -45,12 +45,12 @@ function Header() {
   }, []);
 
   let currentLocation = window.location.href;
-  let place = currentLocation.includes("CNPM_Travel") ? true : false;
+  let place = currentLocation.includes("CNPM_Travel_loc") ? true : false;
   return (
     <div
       className={`sticky top-0  z-20 flex w-full justify-between border-b-[0.5px] border-gray-600 ${isBg_Header} p-5 text-[20px]`}
     >
-      <Link to="/CNPM_Travel">
+      <Link to="/CNPM_Travel_loc">
         <img
           alt=""
           src={
